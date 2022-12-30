@@ -1,3 +1,4 @@
+type,value
 fare_amount,-0.0001
 fare_amount,0.1004
 fare_amount,0.1011
